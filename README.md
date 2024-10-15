@@ -3,7 +3,7 @@
 BEAM, in collaboration with the **Astrophysics, Astronomy & Mechanics** sector of AUTh's Physics Department, undertakes the implementation of the project **ASTRO**, related to the development and design of a radio telescope.
 
 # ASTRO
-**ASTRO** - Aristotle Student Telescope for Radio astronomy Observations is the latest BEAM's project and its target is to construct a radio telescope in Thessaloniki, Greece. Utilizing national and international collaborations of our professors we have the support and guidance of astronomers and engineers with extensive experience in the construction of radio telescopes. The main purpose of the project is to strengthen the educational and research facilities of the AUTh, but also the flourishing of the field of astronomy and more specifically radio astronomy in Greece.
+**ASTRO** - Aristotle Student Telescope for Radio astronomy Observations is the latest BEAM's project and its target is to construct a radio telescope in Thessaloniki, Greece. Utilizing national and international collaborations of our professors we have the support and guidance of astronomers and engineers with extensive experience in the construction of radio telescopes. The main purpose of the project is to strengthen the educational and research facilities of the AUTh, but also the flourishing of the field of astronomy and more specifically radio astronomy in Greece. To learn more about ASTRO, you can visit [BEAM Project](https://astrobeam.gr/).
 
 <img src="https://user-images.githubusercontent.com/80003772/210603427-5a76ade4-ab13-4674-a3b8-ac46099be2e0.png" width=25% height=25%>
 
@@ -21,3 +21,14 @@ The Software Subsystem is focused on creating a tool for doing astrophysical ana
 
 # Organisation
 The first phase of our work is to create educational notebooks regarding the analysis needed in each case (continuum and spectral line). We are also experimenting with Neural Networks to find potential uses for Radio Astronomy data.
+
+# Contributors
+Active Members:
+George Kesoglidis,
+Panagiota Batsela,
+Panagiotis Petridis
+
+Old Members:
+Ioannis Liodis,
+Prodromos Polychroniadis,
+Nikiforos Galanis
