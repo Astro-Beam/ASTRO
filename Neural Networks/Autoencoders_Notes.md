@@ -9,7 +9,6 @@ Feature projection, also called **feature extraction**, transforms the data from
 PCA is the main linear technique for dimensionality reduction. It performs a linear mapping of data to a lower-dimensional space, maximizing the variance of the data in the reduced space.
 
 ### 3. ICA
-(*Add details if needed*)
 
 ## 4. Dimensionality Reduction
 Dimensionality reduction transforms data from a high-dimensional space to a lower-dimensional space, while retaining meaningful properties of the original data. Ideally, the low-dimensional representation approximates the **intrinsic dimension** of the dataset (i.e., the number of variables required for a minimal representation).
