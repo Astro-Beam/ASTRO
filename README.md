@@ -26,7 +26,8 @@ The first phase of our work is to create educational notebooks regarding the ana
 Active Members:
 George Kesoglidis,
 Panagiota Batsela,
-Panagiotis Petridis
+Panagiotis Petridis,
+Jo Gisdaki
 
 Old Members:
 Ioannis Liodis,
