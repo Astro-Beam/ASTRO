@@ -1,0 +1,9 @@
+mysql
+mysql-connector-python
+pandas
+matplotlib
+numpy
+astropy
+scipy
+scikit-learn
+tabulate
