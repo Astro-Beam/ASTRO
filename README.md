@@ -25,11 +25,17 @@ The first phase of our work is to create educational notebooks regarding the ana
 # Contributors
 Active Members:
 George Kesoglidis,
-Panagiota Batsela,
 Panagiotis Petridis,
-Jo Gisdaki
+Asteris Poulios,
+Andreas Sapountzoglou,
+Christos Alexopoulos
 
-Old Members:
+Past Members:
 Ioannis Liodis,
 Prodromos Polychroniadis,
-Nikiforos Galanis
+Nikiforos Galanis,
+Michaela Ververi,
+Konstantinos Tryfonidis,
+Panagiota Batsela,
+Jo Gisdaki
+
