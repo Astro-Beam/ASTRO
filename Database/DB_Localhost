@@ -1,0 +1,2 @@
+1) Auto update database(add new row) when new observation arrives. 
+2) Upload .dat file contents to DB table.
