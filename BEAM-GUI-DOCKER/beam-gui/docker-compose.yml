@@ -1,0 +1,13 @@
+services:
+  gui:
+    build: .
+    container_name: beam-gui
+    platform: linux/amd64
+    ports:
+      - "6080:80"     # open http://localhost:6080
+      - "5901:5901"   # optional VNC client
+    volumes:
+      - ./:/opt/app
+    environment:
+      - RESOLUTION=1280x800
+    restart: unless-stopped
