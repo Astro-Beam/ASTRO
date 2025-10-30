@@ -1,0 +1,13 @@
+Observation Start: 2025-09-04_19-46-18
+Object: Sun
+Observation Type: Target Observation
+Rest Freq: 1450000000.0
+Bandwidth: 10000000.0
+RA: 0.0
+Dec: 0.0
+Integration Time: 0.5
+Receiver: 80cm Sun
+RF Gain: 20.0
+IF Gain: 10.0
+BB Gain: 0.0
+Observation End: 2025-09-04_19-46-30
