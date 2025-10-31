@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Training artifacts
+runs/
+logs/
+checkpoints/
+data/
+*.mp4
