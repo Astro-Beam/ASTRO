@@ -11,3 +11,10 @@ logs/
 checkpoints/
 data/
 *.mp4
+.venv/
+__pycache__/
+*.pyc
+
+
+# macOS
+.DS_Store

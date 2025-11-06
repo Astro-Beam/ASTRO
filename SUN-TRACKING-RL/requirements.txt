@@ -3,3 +3,4 @@ numpy
 stable-baselines3
 torch
 matplotlib
+astral==2.2
